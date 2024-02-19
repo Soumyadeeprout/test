@@ -3,3 +3,5 @@ my new git repo
 git init
 git add. 
 git commit -m "first repo"
+
+Second commit also done and added 
